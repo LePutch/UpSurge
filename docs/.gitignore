@@ -1,0 +1,8 @@
+/target
+/tests_config
+output.log
+.DS_Store
+run.sh
+.vscode
+.ssh-connection**
+feedbacks
